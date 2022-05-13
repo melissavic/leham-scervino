@@ -1,0 +1,119 @@
+/* main{
+    display: flex;
+    flex-direction: column;
+}
+
+section{
+    height: 100vh;
+}
+
+.home-container{
+    background-color: #BBC9BF;
+    
+    
+}
+
+.sn-container{
+    background-color: #829B89;
+    
+    
+} */
+
+/* .SN_text {
+    position: absolute;
+    width: 432px;
+    height: 527px;
+    left: 100.5px;
+    top: 159px;
+    
+    background-color: #55775E;
+    border-radius: 3px;
+    } 
+    
+    
+    
+    .SN_detail{position: absolute;
+    width: 432px;
+    height: 494px;
+    left: 70px;
+    top: 221px; 
+    
+    background: rgba(85, 119, 94, 0.56);
+    border-radius: 3px;
+    z-index: -1;
+    }
+    
+    
+    .detalhe_sn {
+    position: relative;
+    width: 297px;
+    height: 709px;
+    left: 1189px;
+    top: 159px;
+    } 
+
+  */
+
+    section{
+        height: 100vh;
+    }
+    
+
+.home{
+    background-color: palevioletred;
+
+}
+    
+.sn-container{
+    position: relative;
+    background-color: lightgreen;
+    display: flex;
+
+}
+
+.sn-container .texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+.sn-container .imagens {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.sn-container .imagens .img-destaque{
+    position: absolute;
+}
+
+.sn-container .imagens .produto-img.img-destaque {
+    top: 51px;
+    right: 100px;
+}
+
+
+.fundadores-container{
+    background-color: lightpink;
+
+    
+}
+
+.beneficios-container{
+    background-color: lightskyblue;
+    
+}
+
+.vagas-container{
+    background-color: lightgoldenrodyellow;
+   
+        
+}
+footer{
+    background-color: blue;
+    height: 80px;
+}
+
+
