@@ -1,0 +1,15 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+:root{
+    --accent-color: #55775E ;
+    --accent-color: #BBC9BF;
+
+}
+ 
+
+body{
+    height: 100vh;
+}
