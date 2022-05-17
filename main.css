@@ -184,14 +184,15 @@
     padding-left: 1px;
     left: 608px;
     top: 201px;
+  
 }
 
 .sn-container .imagens .linhas.img-destaque{
 
-    padding-left: 400px;
-    z-index: 3;
+    padding-left: 405px;
+    z-index: 1;
     top: 481px;
-    
+
 }
 
 
