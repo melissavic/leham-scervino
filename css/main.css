@@ -308,7 +308,8 @@ z-index: -1;
     align-items: center;
     justify-content: center;
     width: 1905px;
-   margin-bottom: 800px;
+   
+   margin-top: 60px;
    
 
     
@@ -316,7 +317,8 @@ z-index: -1;
 
 
   .colaboradores-container{
-     justify-content: flex-end;
+    display: flex; 
+    justify-content: space-around
      flex-direction: row;
      flex-wrap: wrap;
      
