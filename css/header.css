@@ -1,0 +1,85 @@
+    .menu-inicial {
+        height: 90px;
+        width: 100%;
+        display: flex;
+        position: absolute;
+        background-color: #55775E;
+        align-items: center;
+        text-align: center;
+        color: white;
+        font-family: 'Lustria', serif;
+        font-size: 1.2rem;
+        z-index: 999;
+        justify-content: center;
+        
+    }
+
+    .menu-fixo {
+        position: fixed;
+        z-index: 998;
+        width: 100%;
+        height: 65px;
+        background-color: #55775E;
+        color: white;
+        font-family: 'Lustria', serif;
+        display: flex;
+        font-size: 1.2rem;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 1115px;
+
+    }
+
+    .links-container-fixo {
+        display: flex;
+        gap: 69px;
+        align-items: flex-end;
+        justify-content: flex-end;
+
+    }
+
+    .logo1 {
+        position: absolute;
+        width: 400px;
+        height: 150px;
+        left: 40%;
+        top: 1px;
+        border-color: white;
+        z-index: 1000;
+
+    }
+
+    .logo2 {
+        position: fixed;
+        left: 1px;
+    }
+
+    .home-container {
+        display: flex;
+        color: white;
+        font-family: 'Lustria', serif;
+        gap: 16px;
+        justify-items: center;
+        color: white;
+        
+    }
+
+    .links-container-esquerda {
+        display: flex;
+        flex-direction: row;
+        gap: 16px;
+        justify-content: flex-start;
+        gap: 100px;
+        width: 1398px;
+        padding: 0px 150px;
+
+    }
+
+    .links-container-direita {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        gap: 100px;
+        padding-right: 250px;
+
+    }

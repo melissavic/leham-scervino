@@ -12,3 +12,13 @@ a{
 ul{ 
     list-style: none;
 }
+html{
+    scroll-behavior: smooth;
+
+}
+:root{
+    --accent-color:#55775E
+}
+body , html{
+    
+}
